@@ -11,7 +11,7 @@ from collections import Counter
 # In[2]:
 
 d = {}
-bus_stop_names = ["JJ Nagar East", "Anna Nagar West Depot", "Collector Nagar", "Mogappair", "Thirumangalam",
+bus_stop_names = ["JJ Nagar East", "Anna Nagar West Depot", "Collector Nagar", "Mogappair East", "Thirumangalam",
                   "Gurunath Stores", "Incubation Centre", "SOMCA Block"]
 for it in xrange(1, len(bus_stop_names)+1):
     d[it] = bus_stop_names[it-1]
