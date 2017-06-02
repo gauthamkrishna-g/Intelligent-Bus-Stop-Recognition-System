@@ -11,9 +11,9 @@ automated 24 x 7, using a light sensor or a timer.
 version of the dataset recorded and the implementation is given in the report which can be found \
 here: [Intelligent-Bus-Stop-Recognition-System](https://github.com/gauthkris/Intelligent-Bus-Stop-Recognition-System/blob/master/Bus%20Stop%20Recognition%20System%20Report.pdf).
 
-✔ We focused on using low-resolution images to achieve the same result while not compromising on our accuracy.
-
 ✔ The accuracy and efficiency of the algorithm are also explored, in terms of both memory and space.
+
+✔ We focused on using low-resolution images to achieve the same result while not compromising on our accuracy.
 
 For more details for data, contact [Gautham Krishna](https://www.linkedin.com/in/ggauthamkrishna) or [Ateendra Ramesh](https://www.linkedin.com/in/ateendra-ramesh-065b26142/).
 
