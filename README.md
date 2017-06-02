@@ -1,13 +1,15 @@
 # Intelligent-Bus-Stop-Recognition-System
 
-✔ The Intelligent Bus Stop Recognition System identifies Bus Stops using images acquired from cameras placed on a bus,
-using a lightweight and simple hybrid nearest neighbor algorithm, thereby eliminating the need for sensor networks. This
-is our final year undergrad project.
+✔ The Intelligent Bus Stop Recognition System identifies Bus Stops using images acquired from cameras placed  \
+on a bus, using a lightweight and simple hybrid nearest neighbor algorithm, thereby eliminating the need for
+sensor networks. This is our final year undergrad project.
 
-✔ A Day and a Night Classifier is implemented separately in run-time, so that the Recognition Engine can be automated 
-24 x 7, using a light sensor or a timer.
+✔ A Day and a Night Classifier is implemented separately in run-time, so that the Recognition Engine can be \
+automated 24 x 7, using a light sensor or a timer.
 
-✔ The Bus Stops considered are in the urban city of Chennai with the bus stops being easily scalable, and a detailed version of the dataset recorded and the implementation is given in the report which can be found here [Intelligent-Bus-Stop-Recognition-System](https://github.com/gauthkris/Intelligent-Bus-Stop-Recognition-System/blob/master/Bus%20Stop%20Recognition%20System%20Report.pdf).
+✔ The Bus Stops considered are in the urban city of Chennai with the bus stops being easily scalable, and a detailed \
+version of the dataset recorded and the implementation is given in the report which can be found \
+here: [Intelligent-Bus-Stop-Recognition-System](https://github.com/gauthkris/Intelligent-Bus-Stop-Recognition-System/blob/master/Bus%20Stop%20Recognition%20System%20Report.pdf).
 
 ✔ We focused on using low-resolution images to achieve the same result while not compromising on our accuracy.
 
