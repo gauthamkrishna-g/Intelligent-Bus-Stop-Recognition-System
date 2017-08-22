@@ -15,7 +15,7 @@ here: [Intelligent-Bus-Stop-Recognition-System](https://github.com/gauthkris/Int
 
 ✔ We focused on using low-resolution images to achieve the same result while not compromising on our accuracy.
 
-For more details for data, contact [Gautham Krishna](https://www.linkedin.com/in/ggauthamkrishna) or [Ateendra Ramesh](https://www.linkedin.com/in/ateendra-ramesh-065b26142/).
+For more details about the data, contact [Gautham Krishna](https://www.linkedin.com/in/ggauthamkrishna) or [Ateendra Ramesh](https://www.linkedin.com/in/ateendra-ramesh-065b26142/).
 
   Steps for running the Intelligent Bus Stop Recognition System:
 
