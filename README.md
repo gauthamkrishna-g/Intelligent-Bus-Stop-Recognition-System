@@ -2,7 +2,7 @@
 
 ✔ The Intelligent Bus Stop Recognition System identifies Bus Stops using images acquired from cameras placed  
 on a bus using a lightweight and simple hybrid nearest neighbor algorithm and implemented using a  
-Raspberry Pi Zero, thereby eliminating the need for sensor networks. This is our final year undergrad project.  
+RaspberryPi Zero, thereby eliminating the need for sensor networks. This is our final year undergrad thesis.  
 
 ✔ A Day and a Night Classifier is implemented separately in run-time, so that the Recognition Engine can be  
 automated 24 x 7, using a light sensor or a timer.  
